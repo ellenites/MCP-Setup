@@ -27,7 +27,7 @@ Document the experiment of creating and testing rules for GitHub Copilot to guid
 - Copilot sometimes **defaulted to assumptions** if rules were not explicitly reinforced in comments.
   - Example: assuming CSV headers even when dataset format was unclear.
 - Behavioral rules (like asking questions instead of guessing) required **stronger explicit instructions**.
-- Rules influence behavior probabilistically — not every suggestion followed the rules perfectly.
+- Rules influence behavior probabilistically, not every suggestion followed the rules perfectly.
 - Needed iterative testing and reinforcement to reduce incorrect suggestions.
 
 
@@ -45,5 +45,5 @@ Document the experiment of creating and testing rules for GitHub Copilot to guid
 
 
 ### Conclusion
-By creating rules and testing them systematically, I was able to **align Copilot’s behavior with my intent, thought patterns, and expectations**.  
+By creating rules and testing them systematically, I was able to **align Copilot’s behavior with my intent, thought patterns and expectations**.  
 The combination of **global rules and local prompts** provides a practical framework for using AI coding assistants effectively in real projects.
