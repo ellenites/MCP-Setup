@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"tenxfeedbackanalytics": {
+			"url": "https://mcppulse.10academy.org/proxy",
+			"type": "http"
+		},
+		"my-mcp-server-154dbda6": {
+			"url": "https://mcppulse.10academy.org/proxy",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
